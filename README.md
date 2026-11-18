@@ -1,24 +1,25 @@
 # Projeto Integrador — Fundamentos de Engenharia de Software
 
 ## Nome do sistema
-Sistema de Biblioteca Universitária
+PROJETO DE SOFTWARE PARA E-COMMERCE DE FARMÁCIA
 
 ## Objetivo
-Propor uma solução de software para o gerenciamento
-de livros, usuários, empréstimos e devoluções.
+Propor um sistema de e-commerce para farmácia que permita ao cliente comprar medicamentos e itens de perfumaria pela internet com segurança, controlando o envio e a análise de receitas, a conferência na entrega e o atendimento por chatbot e profissionais, e mantendo o estoque unificado com o sistema de venda presencial.
 
 ## Integrantes
-- Nome completo — GitHub: @usuario1
-- Nome completo — GitHub: @usuario2
-- Nome completo — GitHub: @usuario3
-- Nome completo — GitHub: @usuario4
+- André Vitor Pogorzelski — GitHub: @andrevpogorzelski
+- Bernardo de Carmo Bassi — GitHub: @usuario2
+- João Paulo Elger — GitHub: @usuario3
 
 ## Funcionalidades principais
 - Cadastro de usuários
-- Cadastro de livros
-- Empréstimo e devolução
-- Consulta ao acervo
-- Relatórios
+- Cadastro de produtos(Medicamentos e perfumarias)
+- Vendas
+- Consulta ao estoque
+- Atendimento com chatbot e chat escalonado
+- Envio e análise de receitas
+- Entrega com conferência da receita
+- Integração com o sistema de venda presencial (PDV)
 
 ## Organização do projeto
 - 01-requisitos
