@@ -8,7 +8,7 @@ Propor um sistema de e-commerce para farmácia que permita ao cliente comprar me
 
 ## Integrantes
 - André Vitor Pogorzelski — GitHub: @andrevpogorzelski
-- Bernardo de Carmo Bassi — GitHub: @usuario2
+- Bernardo de Carmo Bassi — GitHub: @BernardoB4ssi
 - João Paulo Elger — GitHub: @usuario3
 
 ## Funcionalidades principais
